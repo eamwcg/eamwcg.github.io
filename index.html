@@ -10,6 +10,7 @@ layout: default
     </ul>
   </div>
 </div>
+
 <div class="home-callout">
   <h1 class="callout-title">The Learn Enough Story</h1>
   <div class="callout-copy">
@@ -25,6 +26,12 @@ layout: default
     </p>
   </div>
  </div>
+
+<div class="home-section">
+  <h4>Most recent post</h4>
+  {% for post in site.posts limit:1 %}
+  {% include post-excerpt.html %}
+</div>
 
 <div class="home-section">
   <h2>The Founders</h2>
