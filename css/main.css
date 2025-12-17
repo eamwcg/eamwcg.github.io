@@ -617,7 +617,7 @@ h2 ~ p {
     margin-top: 1em;
   }
   .header-nav li ~ li {
-    border: 0;
+    /* border: 0; */
     padding: 0;
   }
   .header-nav li:last-child {
