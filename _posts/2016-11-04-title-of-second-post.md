@@ -3,7 +3,7 @@ layout: post
 title: Sprig Muslin
 postHero: /images/pexels-ladfury-2835623.jpg
 author: Someone Else
-authorTwitter: https://twitter.com/mhartl
+authorTwitter: https://x.com/georgettedaily
 gravatar: https://avatars.githubusercontent.com/u/242511619?v=4
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
