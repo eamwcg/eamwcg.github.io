@@ -665,10 +665,6 @@ h2 ~ p {
     width: auto;
   }
 
-  /* SOCIAL STYLES */
-.social-link {
-  padding-top: 0.2em;
-
     /* GALLERY STYLES */
   .gallery {
     flex-direction: column;
