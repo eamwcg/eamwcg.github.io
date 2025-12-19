@@ -339,7 +339,7 @@ h2 ~ p {
   box-sizing: border-box;
   color: #fff;
   display: inline-block;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
   font-size: 1.7em;
   font-weight: bold;
   height: 1.5em;
@@ -664,6 +664,25 @@ h2 ~ p {
     font-size: 1.3rem;
     width: auto;
   }
+
+  /* SOCIAL STYLES */
+.social-link {
+  background: rgba(150, 150, 150, 0.5);
+  border-radius: 99px;
+  box-sizing: border-box;
+  color: #fff;
+  display: inline-block;
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  font-size: 1.7em;
+  font-weight: bold;
+  height: 1.5em;
+  line-height: 1;
+  padding-top: 0;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  width: 1.5em;
+
     /* GALLERY STYLES */
   .gallery {
     flex-direction: column;
